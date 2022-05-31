@@ -6,5 +6,6 @@ import org.springframework.stereotype.Controller;
 public class mainController{
 	public void main() {
 		int a=10;
+		int b=1;
 	}
 }
